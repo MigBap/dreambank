@@ -1,5 +1,5 @@
 # dreambank
-NLP project (not complete yet) 
+NLP project - not complete yet
 
 ---
 Dreambank - data: http://www.dreambank.net/
