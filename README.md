@@ -2,6 +2,7 @@
 NLP project - not yet complete
 
 Dream text analysis
+
 More than 19K dreams. Special case analysis of Barb S., with more than 4K dreams
 
 ---
